@@ -502,7 +502,7 @@ GameObject:
   - component: {fileID: 815911725}
   - component: {fileID: 815911724}
   m_Layer: 0
-  m_Name: grass
+  m_Name: ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
